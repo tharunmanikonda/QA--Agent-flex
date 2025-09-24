@@ -1,0 +1,11 @@
+AI Agent: Hi, thanks for calling Nike. Am I speaking with Sarah?
+Customer: Yes.
+AI Agent: Hi Sarah, thanks for calling. I can access your account and help answer any questions. What can I help you with today?
+Customer: I'd like to know the status of my order.
+AI Agent: Is this about your order for the Air Max 270 sneakers in black?
+Customer: Yes, that's right.
+AI Agent: I've pulled up your order. It looks like your order is currently on its way to you and will be delivered by FedEx. You should receive it by tomorrow at 3 PM. Did you have any other questions?
+Customer: The package is being delivered, but they sent it to the wrong address.
+AI Agent: I'm sorry to hear your package was delivered to the wrong address. If you're unable to locate the package, please allow 5 business days after the delivery date, then contact our customer service team for further assistance. Is there anything else I can help you with?
+Customer: No, thank you.
+AI Agent: Great, thanks for calling Sarah. Have a great day.

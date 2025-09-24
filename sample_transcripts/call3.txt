@@ -1,0 +1,29 @@
+AI Agent: Hi, thanks for calling Nike. Am I speaking with Jessica?
+Customer: Yes.
+AI Agent: Hi Jessica, thanks for calling. I can access your account and help answer any questions. What can I help you with today?
+Customer: I submitted a return and haven't received a refund.
+AI Agent: Are you checking on a return you've already submitted, or would you like to start a new return?
+Customer: Checking on the status.
+AI Agent: Is this about your order for the Nike Dri-FIT running shirt?
+Customer: No.
+AI Agent: Can you tell me your order number, any items that were included, or the date you placed it?
+Customer: Give me one minute.
+AI Agent: Sure, take your time. Let me know when you're ready.
+AI Agent: I'm not hearing anything. Take your time, let me know when you're ready.
+Customer: I'm ready. The order number is NK8421357.
+AI Agent: I think you said the order number is NK8421. Is that correct?
+Customer: No.
+AI Agent: If you have it handy, please say your order number again.
+Customer: NK8421357.
+AI Agent: I found your order. Your order number is 8421357, and I see it was fulfilled. Would you like me to text you a link where you can view more information?
+Customer: No. I returned 2 items and haven't received a refund.
+AI Agent: I see you returned 2 items from your order, and I apologize you haven't received your refund yet. Please allow up to 14 business days for the refund to process after we receive the returned items.
+Customer: It has been 14 days.
+AI Agent: I apologize it's been 14 days and you still haven't received your refund. I can send you a text with a link to our returns portal where you can check your return status.
+Customer: Yes, please.
+AI Agent: Great, I've just sent that to you. Was there anything else you needed help with?
+Customer: Yeah, I'd like to speak with somebody about this.
+AI Agent: The best way to reach our team is by email at help@nike.com, but I can also help. Is there anything else I can try to help with?
+Customer: Can you have somebody call me?
+AI Agent: I'll connect you with a team member who can help you.
+AI Agent: Thanks for calling Nike. Our customer service team is experiencing higher than normal volume. We are available to answer all inquiries by email at this time. Please reach out to us directly at help@nike.com. We appreciate your understanding. Have a great day.

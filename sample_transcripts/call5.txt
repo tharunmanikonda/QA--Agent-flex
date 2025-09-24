@@ -1,0 +1,8 @@
+AI Agent: Hi, thanks for calling Nike. Am I speaking with Lisa?
+Customer: Yes.
+AI Agent: Hi Lisa, thanks for calling. I can access your account and help answer any questions. What can I help you with today?
+Customer: I want to cancel my Nike membership and get a refund for this month.
+AI Agent: I understand you'd like to cancel your Nike membership. For membership cancellations and refund requests, I'll need to connect you with our membership team who can process that for you.
+Customer: Okay, please do that.
+AI Agent: Let me transfer you now.
+AI Agent: Thanks for calling Nike. Our customer service team is experiencing higher than normal volume. We are available to answer all inquiries by email at help@nike.com. We appreciate your understanding. Have a great day.

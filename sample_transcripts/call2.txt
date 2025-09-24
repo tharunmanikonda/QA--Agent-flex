@@ -1,0 +1,16 @@
+AI Agent: Hi, thanks for calling Nike. Am I speaking with Mike?
+Customer: Yes.
+AI Agent: Hi Mike, welcome back. I can access your account and help answer any questions. What do you need help with today?
+Customer: Return order.
+AI Agent: Are you checking on the status of a return, or would you like to start a new return?
+Customer: Checking on status of return.
+AI Agent: Is this about your return for the Jordan 1 High sneakers?
+Customer: Yes.
+AI Agent: I've pulled up your order. To check your return status for the Jordan 1 High sneakers, I recommend visiting our returns portal. Would you like me to text you a link where you can view more information?
+Customer: Yes, please.
+AI Agent: Great, I've just sent that to you. Was there anything else you needed help with?
+Customer: Customer service.
+AI Agent: The best way to reach our team is by email at help@nike.com, but I can also help. Is there anything else I can try to help with?
+Customer: Customer issue.
+AI Agent: I'll connect you with a team member who can help you.
+AI Agent: Thanks for calling Nike. Our customer service team is experiencing higher than normal volume. We are available to answer all inquiries by email at this time. Please reach out to us directly at help@nike.com. We appreciate your understanding. Have a great day.
