@@ -2,7 +2,6 @@
 
 ![Python](https://img.shields.io/badge/python-3.7+-blue.svg)
 ![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4-green.svg)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 A comprehensive quality-assurance (QA) system for analyzing AI voice agent call transcripts. This system provides detailed insights beyond binary automated/escalated classifications, helping customer service teams understand interaction quality, identify improvement opportunities, and optimize voice agent performance.
 
